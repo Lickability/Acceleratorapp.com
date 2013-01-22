@@ -1,4 +1,0 @@
-velocityapp.com
-===============
-
-Velocity Website
