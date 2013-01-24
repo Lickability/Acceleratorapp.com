@@ -6,12 +6,12 @@ body, html {
 }
 
 body {
-   	background:#323232;
-   	color:#efefef;
+   	background:#333;
+   	color:#eee;
    	height: auto;
    	width: auto;
    	padding:60px 0px 0px 0px;
-   	font-family: "raleway","Helvetica",sans-serif;
+   	font:1em/1.5em "raleway", Helvetica, sans-serif;
    	-webkit-font-smoothing: antialiased;
 }
 
