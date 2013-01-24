@@ -10,9 +10,8 @@ body {
    	color:#efefef;
    	height: auto;
    	width: auto;
-   	padding:50px;
-   	font:14px/1.5, "Helvetica Neue", Helvetica, Arial, sans-serif;
-   	font-weight:300;
+   	padding:60px 0px 0px 0px;
+   	font-family: sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,7 +34,7 @@ a {
 
 .wrapper {
   text-align: center;
-  width:860px;
+  width:640;
   margin:auto;
 }
 
