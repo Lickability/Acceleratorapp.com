@@ -7,13 +7,23 @@ body, html {
 
 body {
    	background:#333;
+   	background-image: url(/dark/debut_dark.png);
    	color:#eee;
    	height: auto;
    	width: auto;
    	padding:60px 0px 0px 0px;
    	font:1.2em/1.6em "proxima-nova", Helvetica, sans-serif;
    	font-weight: 100;
-/*    	-webkit-font-smoothing: antialiased; */
+   	-webkit-font-smoothing: antialiased;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3/2),
+    only screen and (min--moz-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+        body {
+	        background-image: url(/dark/debut_dark@2X.png);	        
+        }
 }
 
 h1, h2, h3, h4, h5, h6 {
