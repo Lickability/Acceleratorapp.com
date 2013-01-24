@@ -6,12 +6,12 @@ body, html {
 }
 
 body {
-   	background:-webkit-linear-gradient(#636363 0%, #404040 100%);
+   	background:#323232;
+   	color:#efefef;
    	height: auto;
    	width: auto;
    	padding:50px;
    	font:14px/1.5, "Helvetica Neue", Helvetica, Arial, sans-serif;
-   	color:#e5e5e5;
    	font-weight:300;
 }
 
@@ -54,17 +54,10 @@ a small {
 }
 
 .wrapper {
+  text-align: center;
   width:860px;
   margin:0 auto;
 }
-
-blockquote {
-  border-left:1px solid #e5e5e5;
-  margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
-}
-
 
 img {
   max-width:100%;
