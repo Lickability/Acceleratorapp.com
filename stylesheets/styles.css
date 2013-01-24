@@ -11,8 +11,8 @@ body {
    	height: auto;
    	width: auto;
    	padding:60px 0px 0px 0px;
-   	font:1em/1.5em "raleway", Helvetica, sans-serif;
-   	-webkit-font-smoothing: antialiased;
+   	font:1.2em/1.6em "raleway", Helvetica, sans-serif;
+/*    	-webkit-font-smoothing: antialiased; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -25,7 +25,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:300px;
+  font-size:15em;
 }
 
 a {
