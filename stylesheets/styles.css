@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-	margin: 40px auto;
+	margin: 20px auto;
 	background-color:#efeff4;
 	
    	font:1.2em/1.6em "proxima-nova", "Helvetica Neue", Helvetica, sans-serif;
@@ -23,10 +23,6 @@ h1 {
 	font-size: 5em;
 	line-height: 0.1;
 	font-style: italic;
-}
-
-icon {
-		vertical-align: middle;
 }
 
 h2 {
@@ -50,7 +46,7 @@ a:hover {
 .center {
 	margin-left:auto;
 	margin-right:auto;
-	min-width: 320;
+	min-width: 300;
 }
 
 .iphone {
