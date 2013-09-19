@@ -36,8 +36,9 @@ h2 {
 }
 
 .iphone {
-	width:90%; max-width:320px;
-	margin-top: 20px;
+    width:90%; 
+    max-width:320px;
+    margin-top: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
