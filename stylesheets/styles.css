@@ -13,14 +13,14 @@ body {
    	text-align: center;
 }
 
-h1, h2, h3, p {
+h2, h3, p {
 	text-align: center;
 	line-height:1.1;
 	margin-left:auto;
 	margin-right:auto;
 }
 
-h1 {
+p {
 	font-weight: 100;
 	font-size: 5em;
 	font-style: italic;
