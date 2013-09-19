@@ -39,6 +39,7 @@ h2 {
 	margin-top: 20px;
 	margin-left: 10px;
 	margin-right: 10px;
+	max-width:300;
     display: block;
     margin-left: auto;
     margin-right: auto;
