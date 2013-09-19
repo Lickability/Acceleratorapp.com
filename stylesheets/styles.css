@@ -36,6 +36,7 @@ h2 {
 }
 
 .iphone {
+	width:auto; max-width:300px;
 	margin-top: 20px;
     display: block;
     margin-left: auto;
