@@ -16,7 +16,8 @@ body {
 h1, h2, h3 {
 	text-align: center;
 	line-height:1.1;
-	margin:100px auto;
+	margin-right:100px;
+	margin-left:100px;
 }
 
 h1 {
