@@ -9,7 +9,7 @@ body {
 	
    	font:1.2em/1.6em "proxima-nova", "Helvetica Neue", Helvetica, sans-serif;
    	-webkit-font-smoothing: antialiased;
-   	-webkit-text-size-adjust: 90%;
+   	-webkit-text-size-adjust: none;
    	text-align: center;
 }
 
