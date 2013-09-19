@@ -16,7 +16,8 @@ body {
 h1, h2, h3 {
 	text-align: center;
 	line-height:1.1;
-	margin: 1.2em 0
+	margin-left: .6em;
+	margin-right: .6em;
 }
 
 h1 {
