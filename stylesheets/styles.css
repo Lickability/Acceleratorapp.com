@@ -42,7 +42,10 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:70px;
+    padding-bottom: 70px;
     background-image: url(../iPhone.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
