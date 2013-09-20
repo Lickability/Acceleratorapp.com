@@ -42,10 +42,9 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-	position: absolute;
 	width: 320px;
 	height: 568px;
-	background: url(../iphone.png) top left no-repeat;
+	background-image: url(../iphone.png) top left no-repeat;
 }
 
 /* Links */ 
