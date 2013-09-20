@@ -50,6 +50,15 @@ h2 {
     background-size:320px 1000px
 }
 
+#over {
+    background-image: url("../iPhone.png");
+    background-repeat: no-repeat;
+    height: 380px;
+    width: 750px;
+    margin: 0 auto 30px;
+    position: relative;
+}
+
 /* Links */ 
 
 a[href] {
