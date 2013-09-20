@@ -44,10 +44,10 @@ h2 {
     margin-right: auto;
 
     background-image: url(../iPhone.png);
-    -webkit-background-size: 340px 608px;
-    -moz-background-size: 340px 608px;
-    -o-background-size: 340px 608px;
-    background-size:340px 608px
+    -webkit-background-size: 320px 1000px;
+    -moz-background-size: 320px 1000px;
+    -o-background-size: 320px 1000px;
+    background-size:320px 1000px
 }
 
 /* Links */ 
