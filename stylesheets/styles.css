@@ -59,6 +59,14 @@ h2 {
     position: relative;
 }
 
+iframe {
+    height: 300px;
+    width: 533px;
+    position: absolute;
+    top: 28px;
+    left: 134px;
+}
+
 /* Links */ 
 
 a[href] {
